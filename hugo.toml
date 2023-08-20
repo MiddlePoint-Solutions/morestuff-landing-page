@@ -1,4 +1,23 @@
 baseURL = 'http://morestuff.app/'
-languageCode = 'en-us'
 title = 'MoreStuff'
 theme = 'gokarna'
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+enableRobotsTXT = true
+
+pygmentsStyle = "monokai"
+
+[params]
+  avatarURL = "/images/morestuff_logo.webp"
+  avatarSize = "size-m"
+  AvatarAltText = "avatar"
+
+  footer = "MiddlePoint Solutions"
+  description = "Get more stuff done!"
+
+[menu]
+  [[menu.main]]
+    name = "Privacy Policy"
+    url = "/"
+    weight = 1
