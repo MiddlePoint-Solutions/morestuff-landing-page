@@ -19,5 +19,11 @@ pygmentsStyle = "monokai"
 [menu]
   [[menu.main]]
     name = "Privacy Policy"
-    url = "/"
+    url = "/privacy/"
     weight = 1
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false
