@@ -1,4 +1,4 @@
-baseURL = 'https://middlepoint-solutions.github.io/morestuff-landing-page/'
+baseURL = "https://morestuff.app/"
 title = 'MoreStuff'
 theme = 'gokarna'
 languageCode = "en"
