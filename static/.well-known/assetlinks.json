@@ -5,11 +5,8 @@
     "package_name": "io.middlepoint.morestuff.dev",
     "sha256_cert_fingerprints":
     ["9C:01:52:DE:1D:90:BB:AE:4C:51:83:1D:66:03:2A:49:09:B3:61:C3:60:EA:5A:5C:33:74:85:C0:96:48:0A:06"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
+  },
+  {
     "namespace": "android_app",
     "package_name": "io.middlepoint.morestuff.staging",
     "sha256_cert_fingerprints":
